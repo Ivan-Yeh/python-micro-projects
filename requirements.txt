@@ -103,7 +103,7 @@ pure-eval==0.2.2
 py2app==0.28.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pyasx==2.1.8
+pyasx==2
 pycparser==2.21
 pygame==2.1.2
 pyglet==2.0.dev18
